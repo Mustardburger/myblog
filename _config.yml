@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: My blog
+description: My personal note of all things I learned that I feared my brain would give up on one day
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://Mustardburger.github.io/myblog
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+#aux_links:
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
